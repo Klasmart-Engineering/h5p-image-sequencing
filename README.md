@@ -13,5 +13,5 @@ GPLv3 . See <a href="https://www.gnu.org/licenses/gpl-3.0.txt">More</a>
 
 # Supporters
 
-This project is developed jointly by <a href="https://icfoss.in"> ICFOSS </a> and <a href="https://github.com/space-kerala">SPACE-KERALA</a>.
+This project is developed under Learning and Media Lab of ICFOSS
 
