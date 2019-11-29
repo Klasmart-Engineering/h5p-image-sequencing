@@ -4,7 +4,7 @@ A free HTML5 based image sequencing content type allowing authors to add a seque
 
 ## Screenshots
 
-<img src="screenshots/Screenshot_2019-11-29_Image_Sequencing.png">
+<img src="https://gitlab.com/icfoss/H5P-ImageSequencing/raw/master/screenshots/Screenshot_2019-11-29%20Image%20Sequencing.png">
 
 
 
