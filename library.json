@@ -53,7 +53,7 @@
     {
       "machineName": "H5P.Audio",
       "majorVersion": 1,
-      "minorVersion": 2
+      "minorVersion": 4
     }
   ],
   "editorDependencies": [
