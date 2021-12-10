@@ -65,6 +65,7 @@
     "importance": "low",
     "description": "These options will let you control how the game behaves.",
     "optional": true,
+    "widget": "imagesequencingbehaviour",
     "fields": [
       {
         "name": "enableSolution",
