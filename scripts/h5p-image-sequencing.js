@@ -237,7 +237,9 @@ H5P.ImageSequencing = (function (EventDispatcher, $, UI) {
         }
       });
 
-      that.$listWrapper = $('<div class="list-wrapper">');
+      if (!that.$listWrapper) {
+        that.$listWrapper = $('<div class="list-wrapper">');
+      }
     };
 
     /**
